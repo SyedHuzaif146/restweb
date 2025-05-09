@@ -1,4 +1,6 @@
-# Ex.07 Restaurant Website
+## Ex.07 Restaurant Website
+## NAME= SYED HUZAIF
+## REG-NO= 212224240166
 ## Date: 03.05.2025
 
 ## AIM:
