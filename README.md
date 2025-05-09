@@ -391,17 +391,16 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 #### HOME.HTML
-![alt text](<Screenshot 2025-05-03 093600.png>)
+![Screenshot 2025-05-09 101951](https://github.com/user-attachments/assets/983887ea-a5d2-40d3-ba3b-b9952711d192)
 
 #### MENU.HTML
-![alt text](<Screenshot 2025-05-03 093615.png>)
+![Screenshot 2025-05-09 102031](https://github.com/user-attachments/assets/bae7c541-9736-4bf3-9c84-e564936a8628)
 
 #### MENU.HTML
-![alt text](<Screenshot 2025-05-03 093629.png>)
-![alt text](<Screenshot 2025-05-03 093641.png>)
+![Screenshot 2025-05-09 102049](https://github.com/user-attachments/assets/69275371-05fd-4c5d-af87-f613276c37b0)
 
 #### CONTACT.HTML
-![alt text](<Screenshot 2025-05-03 093652.png>)
+![Screenshot 2025-05-09 102104](https://github.com/user-attachments/assets/77f14cb5-07d8-4ec5-9e8a-d1a5bff31f77)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
